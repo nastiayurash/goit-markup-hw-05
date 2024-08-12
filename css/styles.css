@@ -489,8 +489,12 @@ header {
   letter-spacing: 0.04em;
   color: #fff;
 }
-.footer-btn {
+.form-subscribe {
   display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-direction: row;
+  margin: 0 auto;
 }
 .subscribe-btn {
   display: flex;
@@ -507,7 +511,6 @@ header {
   color: #fff;
   border: none;
   margin-left: 24px;
-
   cursor: pointer;
 }
 .subscribe-btn:hover,
