@@ -483,10 +483,9 @@ header {
 }
 .form-subscribe {
   display: flex;
-}
-.form-label {
   gap: 24px;
 }
+
 .email-input {
   width: 264px;
   height: 40px;
